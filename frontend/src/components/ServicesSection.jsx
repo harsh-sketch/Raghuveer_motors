@@ -1,8 +1,8 @@
 import React from 'react';
 import { mockData } from '../mock';
 import { 
-  Engine, 
-  Wheel, 
+  Cog, 
+  Car, 
   Thermometer, 
   ScanLine, 
   Battery, 
