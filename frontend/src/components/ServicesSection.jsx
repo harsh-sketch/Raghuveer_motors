@@ -14,10 +14,10 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/
 import { Button } from './ui/button';
 
 const iconMap = {
-  engine: Engine,
-  wheel: Wheel,
+  cog: Cog,
+  car: Car,
   thermometer: Thermometer,
-  scan: ScanLine,
+  scanLine: ScanLine,
   battery: Battery,
   wrench: Wrench
 };
