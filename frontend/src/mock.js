@@ -37,14 +37,14 @@ export const mockData = {
       id: 1,
       title: "Complete Engine & Gearbox Repairs",
       description: "Expert repairs for Petrol, Diesel, Hybrid, and Electric engines with precision diagnostics",
-      icon: "engine",
+      icon: "cog",
       features: ["Petrol Engines", "Diesel Engines", "Hybrid Systems", "Electric Motors"]
     },
     {
       id: 2,
       title: "Wheels, Suspension & Brake Systems",
       description: "Complete wheel alignment, suspension tuning, and brake system repair & replacement",
-      icon: "wheel",
+      icon: "car",
       features: ["Wheel Alignment", "Suspension Repair", "Brake Systems", "Performance Tuning"]
     },
     {
@@ -58,7 +58,7 @@ export const mockData = {
       id: 4,
       title: "Software & Diagnostics", 
       description: "Advanced OBD tools and scanners for precise problem detection across all brands",
-      icon: "scan",
+      icon: "scanLine",
       features: ["OBD Diagnostics", "ECU Programming", "Software Updates", "Error Code Analysis"]
     },
     {
