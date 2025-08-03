@@ -1,11 +1,11 @@
 import React from 'react';
 import { mockData } from '../mock';
-import { Award, Car, Tool, Users } from 'lucide-react';
+import { Award, Car, Wrench, Users } from 'lucide-react';
 
 const iconMap = {
   award: Award,
   car: Car, 
-  tool: Tool,
+  tool: Wrench,
   users: Users
 };
 
